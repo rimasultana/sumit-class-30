@@ -1,1 +1,1 @@
-document.getElementById("demo").innerHTML = Math.PI;
+document.getElementById("demo").innerHTML = Math.round(4.5);
