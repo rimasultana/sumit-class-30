@@ -1,1 +1,1 @@
-document.getElementById("demo").innerHTML = Math.ceil(4.5);
+document.getElementById("demo").innerHTML = Math.powgit (4.5);
